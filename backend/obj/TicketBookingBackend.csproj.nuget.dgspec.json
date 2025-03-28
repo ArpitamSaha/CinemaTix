@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ArpitamSaha\\source\\repos\\TicketBookingBackend\\TicketBookingBackend.csproj": {}
+    "C:\\Users\\ArpitamSaha\\Music\\TicketBooking\\backend\\TicketBookingBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ArpitamSaha\\source\\repos\\TicketBookingBackend\\TicketBookingBackend.csproj": {
+    "C:\\Users\\ArpitamSaha\\Music\\TicketBooking\\backend\\TicketBookingBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArpitamSaha\\source\\repos\\TicketBookingBackend\\TicketBookingBackend.csproj",
+        "projectUniqueName": "C:\\Users\\ArpitamSaha\\Music\\TicketBooking\\backend\\TicketBookingBackend.csproj",
         "projectName": "TicketBookingBackend",
-        "projectPath": "C:\\Users\\ArpitamSaha\\source\\repos\\TicketBookingBackend\\TicketBookingBackend.csproj",
+        "projectPath": "C:\\Users\\ArpitamSaha\\Music\\TicketBooking\\backend\\TicketBookingBackend.csproj",
         "packagesPath": "C:\\Users\\ArpitamSaha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArpitamSaha\\source\\repos\\TicketBookingBackend\\obj\\",
+        "outputPath": "C:\\Users\\ArpitamSaha\\Music\\TicketBooking\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
